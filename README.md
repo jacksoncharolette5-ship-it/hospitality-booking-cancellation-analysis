@@ -1,4 +1,4 @@
-# hospitality-booking-cancellation-analysis
+# Hospitality booking and cancellationanalysis
 
 ## Overview
 This project analyzes hospitality booking data to identify cancellation trends and operational impacts. The goal was to uncover patterns affecting revenue and forecasting and to provide data-driven recommendations.
@@ -9,6 +9,7 @@ High cancellation rates can lead to revenue loss and staffing inefficiencies. Th
 ## Tools & Technologies
 - Relational database design
 - Tableau Public (data visualization and dashboards)
+- Excel (data cleaning, pivottables)
 
 ## Data Preparation
 - Cleaned and standardized raw booking data
@@ -30,5 +31,6 @@ High cancellation rates can lead to revenue loss and staffing inefficiencies. Th
 
 ## Files in This Repository 
 - `/tableau` – Dashboard screenshots  
-- `/report` – Final analysis report  
+- `/report` – Final analysis report
+- `/excel` – Data cleaning and preparation files 
 
