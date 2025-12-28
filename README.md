@@ -1,4 +1,4 @@
-# Hospitality booking and cancellationanalysis
+# Hospitality booking and cancellation analysis
 
 ## Overview
 This project analyzes hospitality booking data to identify cancellation trends and operational impacts. The goal was to uncover patterns affecting revenue and forecasting and to provide data-driven recommendations.
