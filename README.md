@@ -21,7 +21,7 @@ High cancellation rates can lead to revenue loss and staffing inefficiencies. Th
 - Detected variation in cancellation behavior across booking channels
 
 ## Tableau Dashboard
-👉 [View Interactive Dashboard](PASTE_TABLEAU_LINK_HERE)
+[View Interactive Dashboard]((https://public.tableau.com/views/Hotelbookingsanalysis_17651280801180/distributionchannels?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
 ## Recommendations
 - Adjust forecasting models to account for cancellation lead time
